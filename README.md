@@ -1,4 +1,5 @@
 ### <img src="https://media.giphy.com/media/l0FF56cexcW2JAXCJj/giphy.gif" width="50"> I'm Rachel Abenzoar, a web developer.
+My portfolio in progress 🚧 : front = rachel_f  / back = rachel_b 
 
 ---
 ## 📞 Contact
