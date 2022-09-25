@@ -5,7 +5,7 @@ My portfolio in progress 🚧 : front = [rachel_f](https://github.com/Rachel-Ab/
 ## 📞 Contact
 Linkedin : https://www.linkedin.com/in/rachelabenzoar/
 
-CV : https://drive.google.com/file/d/15nRbFHzGmyJSqNa__Y_POiSq2DMkxqrM/view?usp=sharing
+CV : https://drive.google.com/file/d/1ioqDRdGwSsgMrKYP5cPrZJ8g5mti7P4m/view?usp=sharing
 
 ---
 ## 🛠 Tools
