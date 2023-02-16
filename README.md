@@ -5,7 +5,7 @@
 ## 📞 Contact
 Linkedin : https://www.linkedin.com/in/rachelabenzoar/
 
-CV : https://drive.google.com/file/d/1ioqDRdGwSsgMrKYP5cPrZJ8g5mti7P4m/view?usp=sharing
+CV : [https://drive.google.com/file/d/1ioqDRdGwSsgMrKYP5cPrZJ8g5mti7P4m/view?usp=sharing](https://drive.google.com/file/d/1HWSf3ue3DIydUxb4T2yE3krcP5gjbHY5/view?usp=sharing)
 
 ---
 ## 🛠 Tools
